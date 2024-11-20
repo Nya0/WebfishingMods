@@ -1,0 +1,9 @@
+{
+    "name": "EffectAlert",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/danielah05/WebfishingMods",
+    "description": "Plays a sound effect when your drink effects expire",
+    "dependencies": [
+        "NotNet-GDWeave-2.0.14"
+    ]
+}

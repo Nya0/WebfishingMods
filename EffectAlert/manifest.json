@@ -1,0 +1,11 @@
+{
+  "Id": "n0.EffectAlert",
+  "AssemblyPath": "EffectAlert.dll",
+  "PackPath": "mod.pck",
+  "Metadata": {
+    "Name": "Effect Alert",
+    "Author": "Nya0",
+    "Version": "1.0.0",
+    "Description": "Plays a sound effect when your drink effects expire"
+  }
+}
